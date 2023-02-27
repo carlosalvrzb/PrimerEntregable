@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Playera Roja Hugo Boss",
+    "description": "Descripción Playera roja Hugo Boss",
+    "code": "1",
+    "price": 500,
+    "status": true,
+    "stock": 4,
+    "category": "Playera",
+    "thumbnail": "playera-roja-hugo-boss.jpg",
+    "id": 1
+  },
+  {
+    "title": "Jeans negros Levis",
+    "description": "Descripción Jeans negros",
+    "code": "2",
+    "price": 1500,
+    "status": true,
+    "stock": 19,
+    "category": "Pantalon",
+    "thumbnail": "pantalon-negro-levis.jpg",
+    "id": 5
+  }
+]
